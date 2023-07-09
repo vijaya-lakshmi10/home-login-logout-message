@@ -1,0 +1,22 @@
+/* Write your CSS here */
+
+.bg-container{
+    background-color: #ffffff;
+    height:100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.login-container{
+    height:400px;
+    width:400px;
+    border-radius:10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: linear-gradient(#2b2c49,#b5b9ff);
+    border:0px solid #ffffff;
+}
+
